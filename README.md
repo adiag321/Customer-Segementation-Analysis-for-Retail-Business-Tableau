@@ -1,4 +1,4 @@
-# <p align = 'center'>Customer Segementation Analysis for Retail Business</p>
+# <p align = 'center'>Customer Segementation Analysis for Retail Business (Sales)</p>
 
 ## PROJECT OVERVIEW
 
@@ -6,12 +6,12 @@
 
  ## RESULTS
 
-1. Sales Dashboard 1
+1. Sales Dashboard 1 - 
 
 ![Dashboard 1](Report/Sales%20Dashboard%201.png)
 
 
-2. Sales Dashboard 2
+2. Sales Dashboard 2 - 
 
 ![Dashboard 2](Report/Sales%20Dashboard%202.png)
 
