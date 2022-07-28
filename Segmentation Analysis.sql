@@ -8,7 +8,7 @@ Skills used: CTE's, Windows Functions, Aggregate Functions, XML Path Function
 
 -- Inspecting Data
 SELECT *
-  FROM [tempdb].[dbo].[sales_data_sample]
+  FROM Retail_Sales_data;
 
 -- Checking unique values
 SELECT DISTINCT status FROM [tempdb].[dbo].[sales_data_sample] -- Good one to plot
